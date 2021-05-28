@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>BAIYI的万事屋</title>
+  <icon>https://blog.baiyibs.top/images/Gitter-brands.png</icon>
+  <subtitle>随缘更新</subtitle>
+  <link href="https://blog.baiyibs.top/atom.xml" rel="self"/>
+  
+  <link href="https://blog.baiyibs.top/"/>
+  <updated>2021-05-15T06:32:20.115Z</updated>
+  <id>https://blog.baiyibs.top/</id>
+  
+  <author>
+    <name>BAIYI</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用Hexo和Gitee搭建自己的博客</title>
+    <link href="https://blog.baiyibs.top/2021/05/03/%E4%BD%BF%E7%94%A8Hexo-Gitee-%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://blog.baiyibs.top/2021/05/03/%E4%BD%BF%E7%94%A8Hexo-Gitee-%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
+    <published>2021-05-03T12:07:55.000Z</published>
+    <updated>2021-05-15T06:32:20.115Z</updated>
+    
+    
+    <summary type="html">Hexo 是一个快速、简洁且高效的博客框架，现在就让我们使用这个框架来搭建属于我们自己的专属博客吧！</summary>
+    
+    
+    
+    <category term="Blog" scheme="https://blog.baiyibs.top/categories/Blog/"/>
+    
+    
+    <category term="Gitee" scheme="https://blog.baiyibs.top/tags/Gitee/"/>
+    
+    <category term="Hexo" scheme="https://blog.baiyibs.top/tags/Hexo/"/>
+    
+    <category term="Blog" scheme="https://blog.baiyibs.top/tags/Blog/"/>
+    
+  </entry>
+  
+</feed>
